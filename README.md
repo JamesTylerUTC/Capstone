@@ -4,6 +4,7 @@ Data and Information for Capstone Project
 This repository contains various information used during the completion of the Fall 2017 Senior Capstone Project on Cloud Computing and is intended for use in the fulfillment of that project or any future continuation of it in later semesters.  Some information has been removed or edited to for privacy reasons.
 
 The contents of the compressed folders located in this repository include:
+
 CapstoneDrive and CapstoneDrive2 - This is the various documentation, diagrams and deliverables used or created by the initial team.
 
 CapstoneApplication - This is the sample web application that was deployed on a cloud server for load testing.
